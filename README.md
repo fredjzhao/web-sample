@@ -1,1 +1,1 @@
-# web-sample
+# Sample web template for reference
