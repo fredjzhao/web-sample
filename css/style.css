@@ -1,0 +1,17 @@
+* {
+    background-color: #c4f5e4;
+}
+
+.title-heading {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.description-heading {
+    color: darkblue;
+}
+
+p {
+    color: rgb(27, 27, 195);
+}
+
